@@ -1,0 +1,4 @@
+Enhancer for YouTube - https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle
+uBlock Origin - https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+Extensity - https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg
+SponsorBlock for YouTube - https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
